@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Harsh Raj</h1>
 <h3 align="center">Software Engineer | AI Analyst | Full-Stack Developer</h3>
 
@@ -6,14 +5,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Passionate+Problem+Solver;AI+and+Machine+Learning;Full-Stack+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-Welcome to my GitHub! I’m a passionate software engineer with a strong foundation in both front-end and back-end technologies, and a deep interest in leveraging Artificial Intelligence to build intelligent and efficient systems.
+Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in both front-end and back-end technologies, and a deep interest in leveraging Artificial Intelligence to build intelligent and efficient systems.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **AI-powered web applications and robust backend systems.**
-- 🌱 I’m currently exploring **Advanced Machine Learning models and System Design principles.**
+- 🔭 I'm currently working on **AI-powered web applications and robust backend systems.**
+- 🌱 I'm currently exploring **Advanced Machine Learning models and System Design principles.**
 - 👨‍💻 Passionate about **problem-solving, algorithm design, and building scalable projects.**
 - 🎯 Goal: **To contribute to impactful projects at the intersection of AI and full-stack development.**
 
@@ -57,8 +56,6 @@ Here are the tools and technologies I work with and continue to master:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraj677&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-
-
 ---
 
 ### 📫 Let's Connect
@@ -66,15 +63,15 @@ Here are the tools and technologies I work with and continue to master:
 I'm always open to discussing technology, collaboration on exciting projects, or new opportunities.
 
 <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:rajharsh7070@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/harsh-raj-697858228"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=harshraj677&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
