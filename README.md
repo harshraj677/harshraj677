@@ -166,16 +166,6 @@ class HarshRaj:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=robotframework&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-2C8EBB?style=for-the-badge&logo=microsoft&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge&logo=qdrant&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Data Science**
 
