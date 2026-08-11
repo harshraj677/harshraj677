@@ -75,7 +75,7 @@ class HarshRaj:
 
 <br/>
 
-<!-- ====================== CURRENT FOCUS ====================== -->
+<!-- ====================== CURRENT FOCUS ===================== -->
 ## 🎯 Current Focus
 
 <table>
