@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Tagline -->
+<!-- Tagline --->
 <p>
   <em>Building intelligent systems and scalable products — turning ideas into real-world impact.</em>
 </p>
