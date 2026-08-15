@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Harsh%20Raj&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
-<!-- Animated Typing SVG --->
+<!-- Animated Typing SVG -->
 <a href="https://github.com/harshraj677">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=70&lines=Software+Engineer;AI+Engineer;Full-Stack+Developer;Agentic+AI+Enthusiast;RAG+Systems+Learner;Aspiring+Data+Scientist;Aspiring+Data+Analyst" alt="Typing SVG" />
 </a>
