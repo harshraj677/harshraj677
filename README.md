@@ -17,7 +17,7 @@
   <em>Building intelligent systems and scalable products — turning ideas into real-world impact.</em>
 </p>
 
-<!-- Profile Counters & Badges --->
+<!-- Profile Counters & Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=harshraj677&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/harshraj677?tab=followers">
